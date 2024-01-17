@@ -1,5 +1,5 @@
 
-# <p align="center">Hi, I'm Ria Oh 👋</p>
+# <p align="center">Hi, I'm Ria 👋</p>
 <p align="center">"Talk is cheap. Show me the code" - Linus Torvalds</p>
 
 <p align="center"><img width="800" height="200" alt="image" src="https://user-images.githubusercontent.com/83909755/153589406-66bfe497-d54b-4aa6-ba39-30d884bfb49a.png"></p>
@@ -7,7 +7,6 @@
 <a href="https://lion284.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-0B0D0E?style=flat-square&logo=Storyblok&logoColor=FFFFFF"/></a>
 <a href="https://lion284.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="https://www.linkedin.com/in/riaoh/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a>
-<a href="https://lion284.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF"/></a>
 </p>
 
 
