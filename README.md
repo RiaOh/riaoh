@@ -2,8 +2,7 @@
 <h1 align="center">오예림 • Ria</h1>
 <p align="center">Front-end Engineer</p>
 
-<p align="center"><img width="800" height="600" alt="image" src="https://github.com/RiaOh/riaoh/assets/83909755/a0adae92-efe2-428e-a988-c439ef4672fc"></p>
-
+<p align="center"><img width="400" height="300" alt="image" src="https://github.com/RiaOh/riaoh/assets/83909755/a3e1d299-510f-4c0b-a0ab-d28be36f5e04"></p>
 
 <p align="center">"Talk is cheap. Show me the code" - Linus Torvalds</p>
 <br />
